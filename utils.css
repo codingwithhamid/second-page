@@ -1,0 +1,32 @@
+ .btn{
+    
+    width: 100%;
+  border:0;
+  outline: none;
+  text-align: center;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  cursor: pointer;
+  font-size: 20px;
+  color: azure;
+  margin-top: 8px;
+}
+.btn:hover{
+    background-color: rgb(15, 201, 225); 
+} 
+.my-1{
+    margin: 10px 0;
+}
+.my-2:hover{
+    background-color:rgb(149, 14, 124) ;
+}
+.my-3:hover{
+    background-color:peru ;
+}.my-4:hover{
+    background-color:rgb(247, 13, 71) ;
+}.my-5:hover{
+    background-color:goldenrod ;
+}
+.my-6:hover{
+    background-color: mediumpurple;
+}

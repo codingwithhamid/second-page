@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --main-bg-color:black;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* background-color: rgb(249, 247, 243); */
+  
+}
+.card{
+    background-color: white;
+    width:12vw;
+    box-shadow: 3px 3px 12px black;
+    border-radius: 10px;
+    margin: 15px;
+     
+
+}
+.card:hover{
+    box-shadow: 6px 6px 18px black;
+}
+.image img{
+    width: 100%;
+    border-radius: 10px;
+    height: 130px;
+}
+.title{
+    text-align: center;
+}
+.description{
+    text-align: center;
+}
